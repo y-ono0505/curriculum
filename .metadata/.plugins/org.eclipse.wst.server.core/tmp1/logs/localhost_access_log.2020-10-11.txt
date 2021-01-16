@@ -1,0 +1,9 @@
+127.0.0.1 - - [11/Oct/2020:09:08:55 +0900] "GET / HTTP/1.1" 404 901
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:08:56 +0900] "GET /MVC_Task/ HTTP/1.1" 200 1710
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:08:56 +0900] "GET /MVC_Task/css/common.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:08:56 +0900] "GET /MVC_Task/css/login.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:08:56 +0900] "GET /MVC_Task/js/common.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:27:32 +0900] "POST /MVC_Task/employee HTTP/1.1" 200 3585
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:27:32 +0900] "GET /MVC_Task/css/employeeResult.css HTTP/1.1" 200 4833
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:27:40 +0900] "GET /MVC_Task/employee?sender=%2FemployeeResult.jsp&requestType=logout HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Oct/2020:09:27:40 +0900] "GET /login.jsp HTTP/1.1" 404 896

@@ -1,0 +1,6 @@
+computeSourcePath=true
+contextsDir=/Users/onoyamayudai/Downloads/apache-tomcat-8.5.57/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=/Users/onoyamayudai/Downloads/apache-tomcat-8.5.57/conf/server.xml
+tomcatDir=/Users/onoyamayudai/Downloads/apache-tomcat-8.5.57
+tomcatVersion=tomcatV8

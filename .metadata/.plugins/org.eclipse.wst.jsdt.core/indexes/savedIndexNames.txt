@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/onoyamayudai/LetsEngineer/curriculum/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2067586376.index
+2814250130.index
+1707337428.index
+2364453876.index
+311043671.index
+4222055287.index
